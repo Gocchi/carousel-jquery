@@ -1,3 +1,21 @@
-.botonSlide{
-    border-radius: 100%;
+#slide{
+    width: 100%;
 }
+button{  
+    border-radius: 100%;
+    width: 20px;
+    height: 20px;
+    border: none;
+    padding: 10px;
+}
+#img-1{
+    width: 500px;
+    height: 300px;
+}
+#img-2, #img-3, #img-4,#img-5{
+    display: none;
+    width: 500px;
+    height: 300px;
+}
+
+
